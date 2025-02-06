@@ -2,8 +2,6 @@
 - 👀 I’m interested in creating new services
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on creating new services
-- 📫 How to reach me ▼<br>
-Twitter: https://twitter.com/Senhana2
 
 <!---
 yuki-keio/yuki-keio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
