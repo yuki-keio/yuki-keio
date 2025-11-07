@@ -4,26 +4,20 @@
 
 I create interactive experiences and social innovations that make the world a bit better.
 
----
-
-### 👀 Interests
-- Building fun **web games**  
-- Creating **tools and communities** for neurodivergent individuals
-
----
 
 ### 🌱 Currently Working On
 - **[Reversi Web](https://reversi.yuki-lab.com)** — Free browser-based Othello game with AI & online matches  
 - **[Japan Neurodiversity Association](https://dioden.org)** — A non-profit promoting inclusion and innovation
 
----
+### 👀 Interests
+- Building fun **web games**  
+- Creating **tools and communities** for neurodivergent individuals
 
 ### 💞️ Looking to Collaborate On
-- Creative coding projects (JS/Python)
-- Social tech initiatives or research
+- Creative coding projects (web game)
+- Neurodiversity initiatives or research
 
----
-
+  
 ### 🔗 Portfolio & Links
 - 🌐 [yuki-lab.com](https://yuki-lab.com) — Portfolio & projects
 - 🎮 [Reversi Web](https://reversi.yuki-lab.com) — Flagship Game
