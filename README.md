@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @yuki-keio
-- 👀 I’m interested in creating new services
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on creating new services
+## 👋 Hi, I’m Yuki (@yuki-keio)
 
-<!---
-yuki-keio/yuki-keio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 **Indie Game Developer** | 🌍 **Social Entrepreneur** | 🧠 **Founder, Japan Neurodiversity Association**
+
+I create interactive experiences and social innovations that make the world a bit better.
+
+---
+
+### 👀 Interests
+- Building fun **web games**  
+- Creating **tools and communities** for neurodivergent individuals
+
+---
+
+### 🌱 Currently Working On
+- **[Reversi Web](https://reversi.yuki-lab.com)** — Free browser-based Othello game with AI & online matches  
+- **[Japan Neurodiversity Association](https://dioden.org)** — A non-profit promoting inclusion and innovation
+
+---
+
+### 💞️ Looking to Collaborate On
+- Creative coding projects (JS/Python)
+- Social tech initiatives or research
+
+---
+
+### 🔗 Portfolio & Links
+- 🌐 [yuki-lab.com](https://yuki-lab.com) — Portfolio & projects
+- 🎮 [Reversi Web](https://reversi.yuki-lab.com) — Flagship Game
+- ☖ [Shogi Web](https://shogi.yuki-lab.com) — Free browser-based Japanese chess game
+- ♔ [Chess](https://chess.yuki-lab.com) — Free browser-based chess game
+- 🔮 [Pinball](https://pinball.yuki-lab.com) — Free browser-based pinball
+- 🧩 [Japan Neurodiversity Association](https://dioden.org) — Social Innovation  
+- 💬 [X (Twitter)](https://x.com/NeurodiversityJ) — Updates & thoughts
