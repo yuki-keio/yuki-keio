@@ -20,9 +20,10 @@ I create interactive experiences and social innovations that make the world a bi
   
 ### 🔗 Portfolio & Links
 - 🌐 [yuki-lab.com](https://yuki-lab.com) — Portfolio & projects
-- 🎮 [Reversi Web](https://reversi.yuki-lab.com) — Flagship Game
+- 🎮 [Reversi Web](https://reversi.yuki-lab.com) — Flagship Game. Browser-based reversi
 - ☖ [Shogi Web](https://shogi.yuki-lab.com) — Free browser-based Japanese chess game
 - ♔ [Chess](https://chess.yuki-lab.com) — Free browser-based chess game
+- ④ [4137 - オリジナル数字ゲーム](https://4137game.yuki-lab.com) - Connect number cells!
 - 🔮 [Pinball](https://pinball.yuki-lab.com) — Free browser-based pinball
 - 🧩 [Japan Neurodiversity Association](https://dioden.org) — Social Innovation  
 - 💬 [X (Twitter)](https://x.com/NeurodiversityJ) — Updates & thoughts
