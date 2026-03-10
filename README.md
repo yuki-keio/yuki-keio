@@ -20,5 +20,6 @@ I create interactive experiences and social innovations that make the world a bi
 - ♔ [Chess](https://chess.yuki-lab.com) — Free browser-based chess game
 - ④ [4137 - original number puzzle](https://4137game.yuki-lab.com/) - Connect number cells!
 - 🔮 [Pinball](https://pinball.yuki-lab.com/) — Free browser-based pinball
+- 🔍️ [Character Counter](https://count.yuki-lab.com/) - Free browser-based character counter
 - 🧩 [Japan Neurodiversity Association](https://dioden.org/) — Social Innovation  
 - 💬 [X (Twitter)](https://x.com/NeurodiversityJ/) — Updates & thoughts
